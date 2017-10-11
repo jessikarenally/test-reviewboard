@@ -1,0 +1,6 @@
+REVIEWBOARD_URL = "10.0.0.150"
+REPOSITORY = "test-reviewboard"
+REPOSITORY_TYPE = "git"
+BRANCH = "master"
+LAND_DEST_BRANCH = "master"
+
