@@ -4,5 +4,5 @@ REPOSITORY_TYPE = "git"
 BRANCH = "master"
 LAND_DEST_BRANCH = "master"
 OPEN_BROWSER = "true"
-STAMP_WHEN_POSTING = "true
+STAMP_WHEN_POSTING = "true"
 
